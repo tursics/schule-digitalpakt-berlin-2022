@@ -18,3 +18,13 @@ Als Folge der pandemiebedingten Schulschließungen wurde 2020 beschlossen, den D
 * sowie für Leihgeräte für Lehrkräfte
 
 zu ergänzen. Damit werden mittlerweile insgesamt 6,5 Milliarden Euro vom Bund zur Verfügung gestellt. Länder bzw. Schulträger tragen nochmals 10% von dieser Summe bei. Mit diesen über 7 Milliarden Euro von Bund und Ländern sollen die Voraussetzungen für Bildung in der digitalen Welt bundesweit und nachhaltig spürbar verbessert werden.
+
+https://www.berlin.de/sen/bildung/schule/digitale-schule/digitalpakt/
+
+Folgende Komponenten können entsprechend der Förderrichtlinie gefördert werden:
+* Aufbau oder Verbesserung der digitalen Vernetzung in Schulgebäuden,
+* Pädagogischer Standard-Schulserver,
+* Schulisches WLAN,
+* Anzeige- und Interaktionsgeräte (z. B. interaktive Tafeln, Displays) zum Betrieb in der Schule,
+* Digitale Arbeitsgeräte, insbesondere für die technisch-naturwissenschaftliche Bildung oder die berufsbezogene Ausbildung,
+* Schulgebundene mobile Endgeräte (Notebooks, Tablets, aber keine Smartphones), bis zu 25.000 EUR, wenn bestimmte Voraussetzungen erfüllt sind
