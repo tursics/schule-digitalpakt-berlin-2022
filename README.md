@@ -28,3 +28,24 @@ Folgende Komponenten können entsprechend der Förderrichtlinie gefördert werde
 * Anzeige- und Interaktionsgeräte (z. B. interaktive Tafeln, Displays) zum Betrieb in der Schule,
 * Digitale Arbeitsgeräte, insbesondere für die technisch-naturwissenschaftliche Bildung oder die berufsbezogene Ausbildung,
 * Schulgebundene mobile Endgeräte (Notebooks, Tablets, aber keine Smartphones), bis zu 25.000 EUR, wenn bestimmte Voraussetzungen erfüllt sind
+
+https://www.berlin.de/sen/bildung/schule/digitale-schule/digitalpakt/oeffentliche-schulen/
+
+Infobrief 2
+
+**Budgetberechnung pro Schule**
+
+Die Förderrichtlinie des Landes Berlin bestimmt nach erfolgreicher Prüfung über die Verteilung der Bundesmittel.
+Der Entwurf sieht vor, dass jedem Träger für öffentliche Schulen für die Laufzeit des DigitalPakts ein Budget zusteht, das sich wie folgt zusammensetzt:
+
+Sockelbetrag pro Schule von 100.000 Euro
+
++
+
+Schüleranzahl (Rechnungsgrundlage für die Anzahl der Schülerinnen und Schüler ist die Statistikerhebung im Schuljahr 2018/19)
+
+×
+
+Schülersatz von 330 Euro
+
+
