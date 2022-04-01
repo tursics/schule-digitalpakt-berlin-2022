@@ -48,4 +48,9 @@ Schüleranzahl (Rechnungsgrundlage für die Anzahl der Schülerinnen und Schüle
 
 Schülersatz von 330 Euro
 
+Infobrief 3
 
+* Priorität 1: LAN + Edukativer Schulserver
+* Priorität 2: WLAN
+* Priorität 3: Präsentationstechnik + Stationäre Endgeräte
+* Priorität 4: Mobile Endgeräte
